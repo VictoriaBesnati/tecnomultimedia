@@ -2,7 +2,7 @@
 // com2 | Prof. Matias Jauregui Lorda
 /*
 NOMBRE /s ALUMNA /s *
- -------------------- D'ANGELO, Victoria Y BESNATI Victoria. 
+ -------------------- BESNATI Victoria (88151/1) y D'ANGELO, Victoria (88529/7). 
  
  -------------------- "Las aventuras del Gato con Botas"
  Video BESNATI: https://youtu.be/0QUI4KYbOJs
