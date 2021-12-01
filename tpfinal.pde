@@ -6,8 +6,7 @@ NOMBRE / s ALUMNA / s *
  -------------------- D'ANGELO, Victoria Y BESNATI Victoria. 
  
  -------------------- "Las aventuras del Gato con Botas"
- Video D'ANGELO:
- Video BESNATI:
+ Video BESNATI: https://youtu.be/0QUI4KYbOJs
  */
 import processing.sound.*;
 aventuragrafica avg;
